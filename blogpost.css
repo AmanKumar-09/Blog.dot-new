@@ -1,0 +1,38 @@
+.nav-bar h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    font-family: var(--font2);
+    color: var(--main-bg-color);
+}
+
+.header img{
+    width: 100vw;
+    height: 40vh;
+}
+
+.main-blog-head{
+    height: 160vh;
+    /* background-color: #a1c6fb; */
+}
+
+
+.blog-heading h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    padding: 34px; 
+}
+
+.blog-heading h2{
+    margin: 23px 5px;
+}
+
+.main-blog-head p{
+    line-height: 2;
+}
+.authorhead{
+    margin: 23px 5px;
+}
